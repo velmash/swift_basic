@@ -56,6 +56,7 @@ someString = """오류발생
 오류발생"""
 */
 
+
 // 생각해보기
 let integer: Int = 100
 let floatingPoint: Float = 12.34
